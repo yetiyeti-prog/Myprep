@@ -1,6 +1,6 @@
 package org.ds.stars;
 
-public class stars_2 {
+public class _2 {
 
 
     /*
