@@ -25,7 +25,5 @@ public class PhoneNumberToString {
         for (int i = 0; i < letters.length(); i++ ) {
             letterCombination(count++, currentId + 1,current_str + letters.charAt(i), inputDigits, mapping, result);
         }
-
-
     }
 }
