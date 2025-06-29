@@ -1,4 +1,4 @@
-package org.example.stars;
+package org.ds.stars;
 
 public class stars_1 {
 
