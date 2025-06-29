@@ -1,6 +1,6 @@
-package org.ds.stars;
+package org.ds.patterns;
 
-public class _1 {
+public class _1_stars {
 
 
     /*
